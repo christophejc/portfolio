@@ -1,0 +1,24 @@
+{
+  "source": "https://christophejcharles.wordpress.com/",
+  "pages": {
+    "home": "index.html",
+    "edgereps": "edgereps/index.html",
+    "fir": "64-tap-fir-filter-core/index.html",
+    "hydrai": "hydrai/index.html",
+    "formal": "formal-verification-of-risc-v-cpu-simulator-using-generative-ai-fuzzer/index.html",
+    "vehicle": "autonomous-ir-line-tracking-vehicle-ti-rslk/index.html"
+  },
+  "asset_count": 107,
+  "failed_assets": [],
+  "unavailable_pages": [
+    {
+      "id": 81,
+      "title": "Golf Wizards (Multimodal IoT Game)",
+      "reason": "Original link returns HTTP 404; absent from public page inventory. Hidden card omitted."
+    }
+  ],
+  "validation": {
+    "all_page_text_matches_latest_source": true,
+    "local_link_and_asset_check": "passed"
+  }
+}

@@ -1,0 +1,8 @@
+/* Small static-site adaptations. Original page styles are preserved above. */
+.static-nav{display:flex;align-items:center;justify-content:flex-end;gap:24px;flex-wrap:wrap;font-size:16px}
+.static-nav a{color:inherit;text-decoration:none}.static-nav a:hover{text-decoration:underline}
+.static-nav a:focus-visible,a:focus-visible{outline:2px solid currentColor;outline-offset:5px}
+img{max-width:100%;height:auto}pre{max-width:100%;overflow:auto}object{max-width:100%}
+.wp-block-post-content{overflow-wrap:break-word}
+@media(max-width:600px){.site-header{gap:20px!important}.static-nav{gap:18px;justify-content:flex-start}.wp-block-post-title{overflow-wrap:break-word}object[type="application/pdf"]{height:420px!important}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
